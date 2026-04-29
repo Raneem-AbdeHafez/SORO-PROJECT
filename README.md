@@ -17,16 +17,16 @@ Control a NAO robot using an Xbox controller with smooth movement, speech, and e
 
 ## 🎮 Controls
 
-| Input              | Action             |
-| ------------------ | ------------------ |
-| Left Joystick      | Move and turn robot|
-| Right Joystick     | Move head          |
-| LB + Right Stick   | Control left arm   |
-| RB + Right Stick   | Control right arm  |
-| Triggers  LT/ RT   | Open/close hands   |
-| A                  | Kick               |
-| B / X / Y          | Speech actions     |
-| Right Stick Button | Change eye color   |
+| Input                | Action             |
+| -------------------- | ------------------ |
+| Left Joystick        | Move and turn robot|
+| Right Joystick       | Move head          |
+| LB + Right Stick     | Control left arm   |
+| RB + Right Stick     | Control right arm  |
+| Triggers  LT/ RT     | Open/close hands   |
+| A                    | Kick               |
+| B / X / Y            | Speech actions     |
+| Right Joystick Button| Change eye color   |
 
 ---
 
