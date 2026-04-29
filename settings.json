@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/soro/nao-env/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+
+  "terminal.integrated.cwd": "${workspaceFolder}/soro",
+  "terminal.integrated.profiles.osx": {
+    "csh": {
+      "path": "/bin/csh"
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "csh"
+}
